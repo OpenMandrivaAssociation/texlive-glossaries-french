@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-french
 Version:	42873
-Release:	1
+Release:	2
 Summary:	French language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-french
