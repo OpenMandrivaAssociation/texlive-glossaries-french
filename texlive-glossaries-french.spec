@@ -3,7 +3,7 @@ Version:	42873
 Release:	2
 Summary:	French language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-french
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-french
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-french.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-french.doc.r%{version}.tar.xz
